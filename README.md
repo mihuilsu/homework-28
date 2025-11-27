@@ -28,7 +28,7 @@ A modern, feature-rich carousel slider implementation using Object-Oriented Prog
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/mihuilsu/homework-28
 
 # Install dependencies
 npm install
